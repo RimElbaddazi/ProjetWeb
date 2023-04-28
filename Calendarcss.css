@@ -1,0 +1,46 @@
+
+button{
+ 
+  background:linear-gradient(0deg, rgba(218, 245, 254) 0%, rgba(186, 232, 248) 80%);
+  color: rgb(5, 5, 5);
+  width: 220px;
+  height: 180px;
+  border: 0;
+  font-size: 18px;
+  border-radius: 0px;
+  font-family: 'Raleway', 'Open Sans', sans-serif;
+  transition: .6s;
+  overflow: hidden;
+  border-color: #03071e;
+  
+}
+th{
+    border: none;
+}
+
+
+
+.C{
+    background-color: rgb(251, 249, 245); 
+    border: 0;
+    width: 100px;
+    height: 30px;
+    margin-bottom: 50px;
+    float: left;
+    border-color: #F4845F;
+    
+}
+
+.B{
+    background-color: #F4845F;
+    background:linear-gradient(0deg, rgb(214, 204, 194 ) 0%, rgb(237, 237, 233) 80%); 
+    border: 0;
+    font-family: 'Raleway', 'Open Sans', sans-serif;
+    width: 100px;
+    height: 30px;
+    float: left;
+    
+}
+
+
+
