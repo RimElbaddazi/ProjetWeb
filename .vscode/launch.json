@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Rim/Documents/GitHub/TPGit",
-      "program": "c:/Users/Rim/Documents/GitHub/TPGit/build/Debug/outDebug",
+      "cwd": "c:/Users/Rim/Desktop/ProjetWeb/ProjetWeb",
+      "program": "c:/Users/Rim/Desktop/ProjetWeb/ProjetWeb/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
